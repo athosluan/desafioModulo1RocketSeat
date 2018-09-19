@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/walter/ProjetosReact/ProjectDesafio/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/walter/.android/build-cache/0b0560dd6b44cd393062f75162a5787d2611dcdf/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/walter/ProjetosReact/ProjectDesafio/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/walter/.android/build-cache/0b0560dd6b44cd393062f75162a5787d2611dcdf/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/walter/ProjetosReact/ProjectDesafio/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/walter/.android/build-cache/0b0560dd6b44cd393062f75162a5787d2611dcdf/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/walter/ProjetosReact/ProjectDesafio/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/home/walter/.android/build-cache/ea58f136eb20979f67383e1bcc0d12dc346dfb2a/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/home/walter/ProjetosReact/ProjectDesafio/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/walter/.android/build-cache/0b0560dd6b44cd393062f75162a5787d2611dcdf/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/walter/ProjetosReact/ProjectDesafio/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/home/walter/.android/build-cache/ea58f136eb20979f67383e1bcc0d12dc346dfb2a/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/home/walter/ProjetosReact/ProjectDesafio/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/walter/.android/build-cache/0b0560dd6b44cd393062f75162a5787d2611dcdf/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/walter/ProjetosReact/ProjectDesafio/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/home/walter/.android/build-cache/0b0560dd6b44cd393062f75162a5787d2611dcdf/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/home/walter/ProjetosReact/ProjectDesafio/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/walter/.android/build-cache/0b0560dd6b44cd393062f75162a5787d2611dcdf/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/walter/ProjetosReact/ProjectDesafio/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/home/walter/.android/build-cache/ea58f136eb20979f67383e1bcc0d12dc346dfb2a/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/home/walter/ProjetosReact/ProjectDesafio/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/walter/.android/build-cache/0b0560dd6b44cd393062f75162a5787d2611dcdf/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/walter/ProjetosReact/ProjectDesafio/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/home/walter/.android/build-cache/ea58f136eb20979f67383e1bcc0d12dc346dfb2a/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/home/walter/ProjetosReact/ProjectDesafio/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/home/walter/.android/build-cache/ea58f136eb20979f67383e1bcc0d12dc346dfb2a/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/home/walter/ProjetosReact/ProjectDesafio/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/home/walter/.android/build-cache/ea58f136eb20979f67383e1bcc0d12dc346dfb2a/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/home/walter/ProjetosReact/ProjectDesafio/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/walter/.android/build-cache/0b0560dd6b44cd393062f75162a5787d2611dcdf/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/walter/ProjetosReact/ProjectDesafio/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/walter/.android/build-cache/0b0560dd6b44cd393062f75162a5787d2611dcdf/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/walter/ProjetosReact/ProjectDesafio/android/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/home/walter/.android/build-cache/0b0560dd6b44cd393062f75162a5787d2611dcdf/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/home/walter/ProjetosReact/ProjectDesafio/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/walter/.android/build-cache/0b0560dd6b44cd393062f75162a5787d2611dcdf/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    }
+]

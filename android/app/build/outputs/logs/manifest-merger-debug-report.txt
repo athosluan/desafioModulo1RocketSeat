@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:2:5-33
+		INJECTED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.56.1] /home/walter/.android/build-cache/ea58f136eb20979f67383e1bcc0d12dc346dfb2a/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.56.1] /home/walter/.android/build-cache/ea58f136eb20979f67383e1bcc0d12dc346dfb2a/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/walter/.android/build-cache/0b0560dd6b44cd393062f75162a5787d2611dcdf/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/walter/.android/build-cache/58c594a57ce4b8d24ab965bd4431372473fffc3b/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/walter/.android/build-cache/284b6551295fc9798a8012f26be96efe85d8c3ed/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/walter/.android/build-cache/1ab02d270829f8057d21673d39ce3792df687920/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/walter/.android/build-cache/e56da7715ebd2d3fdb8db86381e81c05a758a877/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/walter/.android/build-cache/7c1d4f040af2969c508fad98716e1fc2c106849b/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/walter/.android/build-cache/9bf5bcf36002fc37e97e30b15da246834af356d4/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/walter/.android/build-cache/1e537a923a23b28a400d3b6713686752b7190cb3/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/walter/.android/build-cache/b710f62fc17ad30bd97a7a3acb9ae1f12cc57677/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/walter/.android/build-cache/938f8decb506388a3bad2320a5ebfee4ce79ef0e/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/walter/.android/build-cache/4d10bf70b1becea68c67409322e0c2d900bf1ae5/output/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/walter/.android/build-cache/6496d9407ac86536b0837e94e6205b89cb863ce3/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:allowBackup
+		ADDED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:icon
+		ADDED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:theme
+		ADDED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.projectdesafio.MainActivity
+ADDED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.facebook.react:react-native:0.56.1] /home/walter/.android/build-cache/ea58f136eb20979f67383e1bcc0d12dc346dfb2a/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/walter/.android/build-cache/0b0560dd6b44cd393062f75162a5787d2611dcdf/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /home/walter/.android/build-cache/58c594a57ce4b8d24ab965bd4431372473fffc3b/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/walter/.android/build-cache/284b6551295fc9798a8012f26be96efe85d8c3ed/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/walter/.android/build-cache/1ab02d270829f8057d21673d39ce3792df687920/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/walter/.android/build-cache/e56da7715ebd2d3fdb8db86381e81c05a758a877/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/walter/.android/build-cache/7c1d4f040af2969c508fad98716e1fc2c106849b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/walter/.android/build-cache/9bf5bcf36002fc37e97e30b15da246834af356d4/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/walter/.android/build-cache/1e537a923a23b28a400d3b6713686752b7190cb3/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/walter/.android/build-cache/b710f62fc17ad30bd97a7a3acb9ae1f12cc57677/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/walter/.android/build-cache/938f8decb506388a3bad2320a5ebfee4ce79ef0e/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/walter/.android/build-cache/46893f4c8a57ba425b794f0b82b9799506de7b36/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /home/walter/.android/build-cache/dfd4b7e8cef87134da7e2a2f3950d243b5fc31c4/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /home/walter/.android/build-cache/1c4fd31f25b53d27e9eab46acf8582eaeb71c529/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /home/walter/.android/build-cache/430b1e1beca54dcdc4476533ca4e10bdff93af27/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /home/walter/.android/build-cache/177aeb78d46a6084f704a666589c5e6bc67259fe/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /home/walter/.android/build-cache/1b4e97071e6172b9048fbe1c62b826cb8f967d0c/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /home/walter/.android/build-cache/dfbdda178b14b42e10f541e0c9ec476bb42cb80e/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/walter/.android/build-cache/4d10bf70b1becea68c67409322e0c2d900bf1ae5/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/walter/.android/build-cache/0b0560dd6b44cd393062f75162a5787d2611dcdf/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/walter/.android/build-cache/0b0560dd6b44cd393062f75162a5787d2611dcdf/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/walter/.android/build-cache/58c594a57ce4b8d24ab965bd4431372473fffc3b/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/walter/.android/build-cache/284b6551295fc9798a8012f26be96efe85d8c3ed/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/walter/.android/build-cache/1ab02d270829f8057d21673d39ce3792df687920/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/walter/.android/build-cache/e56da7715ebd2d3fdb8db86381e81c05a758a877/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/walter/.android/build-cache/7c1d4f040af2969c508fad98716e1fc2c106849b/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/walter/.android/build-cache/9bf5bcf36002fc37e97e30b15da246834af356d4/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/walter/.android/build-cache/1e537a923a23b28a400d3b6713686752b7190cb3/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/walter/.android/build-cache/b710f62fc17ad30bd97a7a3acb9ae1f12cc57677/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/walter/.android/build-cache/0b0560dd6b44cd393062f75162a5787d2611dcdf/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/walter/.android/build-cache/0b0560dd6b44cd393062f75162a5787d2611dcdf/output/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/walter/.android/build-cache/938f8decb506388a3bad2320a5ebfee4ce79ef0e/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/walter/.android/build-cache/938f8decb506388a3bad2320a5ebfee4ce79ef0e/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/walter/.android/build-cache/938f8decb506388a3bad2320a5ebfee4ce79ef0e/output/AndroidManifest.xml:26:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/walter/ProjetosReact/ProjectDesafio/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

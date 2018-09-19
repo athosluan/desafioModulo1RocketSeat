@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/walter/ProjetosReact/ProjectDesafio/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/walter/.android/build-cache/b710f62fc17ad30bd97a7a3acb9ae1f12cc57677/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/walter/ProjetosReact/ProjectDesafio/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/walter/.android/build-cache/b710f62fc17ad30bd97a7a3acb9ae1f12cc57677/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/walter/ProjetosReact/ProjectDesafio/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/walter/.android/build-cache/b710f62fc17ad30bd97a7a3acb9ae1f12cc57677/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/walter/ProjetosReact/ProjectDesafio/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/walter/.android/build-cache/b710f62fc17ad30bd97a7a3acb9ae1f12cc57677/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
